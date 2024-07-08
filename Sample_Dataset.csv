@@ -1,0 +1,12 @@
+Case_No,Reaction_Time,Accuracy_Rate,Q1,Q3,Q5,Q7,Q9,Q10,Age in Months,Gender,Region,Jaundice,Family_mem_with_ASD,Who completed the test
+1,1650,90,1,0,0,0,0,1,16,f,middle eastern,yes,no,family member
+2,1600,87,0,1,1,1,0,1,36,m,asian,no,no,family member
+3,1800,79,0,0,0,0,0,0,5,f,asian,no,no,family member
+4,1744.15,88.8,1,1,0,0,0,1,13,m,middle eastern,yes,yes,family member
+5,1509.95,80,1,0,0,0,0,1,240,m,asian,no,yes,family member
+6,1418.78,91.6,0,1,1,1,0,1,228,f,asian,no,yes,family member
+7,2059.85,50,0,0,0,0,0,0,192,m,asian,no,yes,family member
+8,1823.8,85.71,1,1,0,0,0,1,276,f,middle eastern,no,yes,family member
+9,1807.98,88.8,0,0,0,1,0,1,12,m,asian,yes,no ,family member
+10,903.025,90.9,1,1,1,0,0,0,23,f,middle eastern,no,yes,family member
+,,,,,,,,,10,m,middle eastern,yes,no,family member
